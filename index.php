@@ -260,7 +260,7 @@
                     JS
                   </div>
                   <div>
-                    <p class="font-medium text-lg">Naresh Mehta</p>
+                    <p class="font-medium text-lg">demo test</p>
                     <p class="text-muted-foreground text-sm">CTO, Globex Inc</p>
                   </div>
                 </div>
@@ -300,4 +300,5 @@
   </div>
   <script src="script.js"></script>
 </body>
+
 </html>
